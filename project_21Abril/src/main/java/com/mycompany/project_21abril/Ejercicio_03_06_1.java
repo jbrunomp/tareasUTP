@@ -9,5 +9,5 @@ package com.mycompany.project_21abril;
  * @author JOHN MENDOZA
  */
 public class Ejercicio_03_06_1 {
-    
+ System.out.print("hola Mundo");
 }
