@@ -10,7 +10,7 @@ import java.util.Scanner;
 /**
  *
  * @author JOHN MENDOZA
- * Escriba un programa, que declare un arreglo de enteros e inicialice con valores aleatorios los
+ * Ejmplo Escriba un programa, que declare un arreglo de enteros e inicialice con valores aleatorios los
 muestre en pantalla, pida ingresar dos valores enteros que corresponden a dos posiciones
 del arreglo. El programa debe intercambiar los valores enteros en esas 2 posiciones. Por
 ejemplo, si el arreglo A tuviese los valores A={8,1,4,7,5,10,6,3,9}, al introducir los valores 2 y
