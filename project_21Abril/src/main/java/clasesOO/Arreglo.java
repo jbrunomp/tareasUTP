@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package clasesOO;
+import java.util.Arrays;
 
 /**
  *
@@ -14,6 +15,7 @@ public class Arreglo {
 
     public Arreglo(int dimension) {
         this.arreglo = new int[dimension];
+        llenarArreglo();
     }
     
     public void llenarArreglo(){
@@ -29,7 +31,8 @@ public class Arreglo {
 
     @Override
     public String toString() {
-        return "Arreglo{" + "arreglo=" + arreglo + '}';
+        
+        return "Arreglo{" + "arreglo=" + Arrays.toString(arreglo) + '}';
     }
     
     public int operacion(int x){
